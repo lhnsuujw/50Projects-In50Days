@@ -2,9 +2,11 @@
 
 - [Course Link](https://www.udemy.com/course/50-projects-50-days)
 
-|  #  | Project                                                                                         | Live Demo                                                           |
-| :-: | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+|  #  | Project                                                                                         | Live Demo                                                   |
+| :-: | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards) | [Live Demo](https://xenodochial-panini-1f19ae.netlify.app/) |
+
+| 02 | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards) | [Live Demo](https://xenodochial-panini-1f19ae.netlify.app/) |
 
 ## License
 
