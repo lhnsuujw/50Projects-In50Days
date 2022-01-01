@@ -7,7 +7,7 @@ This is the main repository for all of the projects in the course.
 
 |  #  | Project                                                                                         | Live Demo                                                           |
 | :-: | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards) | [Live Demo](https://moouro.github.io/50Projects-In50Days/) |
+| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards) | [Live Demo](https://xenodochial-panini-1f19ae.netlify.app/) |
 
 ## License
 
