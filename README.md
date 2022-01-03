@@ -3,7 +3,8 @@
 - [Course Link](https://www.udemy.com/course/50-projects-50-days)
 
 | 01 | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards) | [Live Demo](https://xenodochial-panini-1f19ae.netlify.app/) <br>
-| 02 | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps) | [Live Demo](https://gifted-clarke-f0c2ee.netlify.app/)
+| 02 | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps) | [Live Demo](https://gifted-clarke-f0c2ee.netlify.app/) <br>
+| 03 | [Rotation Navigation](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps) | [Live Demo](https://competent-wiles-bf8aa0.netlify.app/)
 
 ## License
 
