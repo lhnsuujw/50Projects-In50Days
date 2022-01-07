@@ -14,5 +14,5 @@
 | [Live Demo](https://goofy-aryabhata-9039af.netlify.app/) <br>
 | 06 | [Scroll Animation](https://github.com/moouro/50Projects-In50Days/tree/main/blurry-loading)
 | [Live Demo](https://festive-pare-6172a0.netlify.app/) <br>
-[Split Landing Page](https://github.com/moouro/50Projects-In50Days/tree/main/split-landing-page)
+| 07 | [Split Landing Page](https://github.com/moouro/50Projects-In50Days/tree/main/split-landing-page)
 | [Live Demo](https://vibrant-roentgen-86e8b5.netlify.app/) <br>
