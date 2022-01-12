@@ -18,3 +18,5 @@
 | [Live Demo](https://vibrant-roentgen-86e8b5.netlify.app/) <br>
 | 08 | [Form Wave Animation](https://github.com/moouro/50Projects-In50Days/tree/main/form-wave-animation)
 | [Live Demo](https://vigorous-noyce-46f0f8.netlify.app/) <br>
+| 09 | [Sound Board](https://github.com/moouro/50Projects-In50Days/tree/main/sound-board)
+| [Live Demo](https://sharp-lewin-c88a6c.netlify.app/) <br>
