@@ -16,3 +16,5 @@
 | [Live Demo](https://festive-pare-6172a0.netlify.app/) <br>
 | 07 | [Split Landing Page](https://github.com/moouro/50Projects-In50Days/tree/main/split-landing-page)
 | [Live Demo](https://vibrant-roentgen-86e8b5.netlify.app/) <br>
+| 08 | [Form Wave Animation](https://github.com/moouro/50Projects-In50Days/tree/main/form-wave-animation)
+| [Live Demo](https://vigorous-noyce-46f0f8.netlify.app/) <br>
