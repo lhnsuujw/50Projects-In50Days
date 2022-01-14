@@ -20,3 +20,5 @@
 | [Live Demo](https://vigorous-noyce-46f0f8.netlify.app/) <br>
 | 09 | [Sound Board](https://github.com/moouro/50Projects-In50Days/tree/main/sound-board)
 | [Live Demo](https://sharp-lewin-c88a6c.netlify.app/) <br>
+| 10 | [Dad Jokes](https://github.com/moouro/50Projects-In50Days/tree/main/dad-jokes)
+| [Live Demo](https://gallant-lewin-1fd8dd.netlify.app/) <br>
